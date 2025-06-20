@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function SignIn() {
   return (
-      <div className=" flex items-center  bg-blue-50  mt-4 mb-4 px-4">
+      <div className=" flex justify-center bg-blue-50  mt-4 mb-4 px-4">
       <div className="w-full max-w-md bg-white p-5 rounded-xl">
         <h2 className="text-3xl font-bold mb-2 ">Sign <span className='text-red-600'>in</span></h2>
         <p className="mb-6 text-sm">
