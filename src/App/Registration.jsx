@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Registration() {
   return (
-   <div className="min-h-screen bg-blue-50  mb-4 flex items-center justify-center mt-2 p-4">
+   <div className="min-h-screen bg-blue-50  mb-4 flex  justify-center mt-2 p-4">
       <form className="bg-white p-8 rounded-lg shadow-md w-full max-w-2xl">
         <h2 className="text-2xl font-bold text-center mb-6">Student Registration <span className='text-red-600'>Form</span></h2>
 
