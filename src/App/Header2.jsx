@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '/src/assets/chatl.png';
+import img from '/src/assets/chatl.jpeg';
 
 export default function Updiv2() {
   return (
